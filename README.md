@@ -9,4 +9,12 @@ In your terminal, go to the path and type py main.py, and the program will immed
 FEATURES:
 -Piece pose will create a sphere
 -One clenched fist will rotate the sphere
--Two clenched fists will explode. -->
+-Two clenched fists will explode. 
+
+NUMBER OF DATASETS:
+-PEACE = 1110
+-clenched = 1032
+-Idle = 1002
+
+
+-->
